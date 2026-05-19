@@ -54,7 +54,7 @@ st.set_page_config(
 )
 
 # Titulo principal de la aplicacion
-st.title("Balanceador de Ecuaciones Quimicas")
+st.title("Balanceador de Ecuaciones Quimicas ꉂ(˵˃ ᗜ ˂˵)⋆˚꩜｡")
 
 
 # Creamos las pestanas principales del sistema
@@ -66,9 +66,9 @@ pestanas = st.tabs([
 ])
 
 
-# ============================================================
+
 # PESTANA 1 - Balanceador principal
-# ============================================================
+
 with pestanas[0]:
 
     st.write(
